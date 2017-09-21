@@ -1,0 +1,1 @@
+The SikkertHjem app only reads the PHONE_STATE to send SMS when the user requests it - nothing more.
